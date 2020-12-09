@@ -1,4 +1,4 @@
-serve:
+superserve:
 	./manage.py runserver
 	#python manage.py runserver
 
